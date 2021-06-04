@@ -1,0 +1,13 @@
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of group is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of input_datetime is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of system_health is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.components.scene] Setup of scene platform homeassistant is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of media_source is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of logbook is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of zone is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of timer is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of tag is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of input_text is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of counter is taking over 10 seconds.
+2021-06-04 23:54:12 WARNING (MainThread) [homeassistant.setup] Setup of input_select is taking over 10 seconds.
+2021-06-04 23:54:15 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from valentin-PC (192.168.50.254). (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36)
